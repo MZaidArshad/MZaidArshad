@@ -28,7 +28,7 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 Feel free to reach out to me through these platforms:
 
-- [LinkedIn]((https://www.linkedin.com/in/muhammad-zaid-arshad-989a761b7/))
-- [Personal Website]((https://mzaidarshad.netlify.app/))
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Personal Website](https://mzaidarshad.netlify.app/)
 
 Let's collaborate and build amazing things together! 😊
