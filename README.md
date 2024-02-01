@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name] - MERN Stack Developer
+# Hi there! 👋 I'm Muhammad Zaid Arshad - MERN Stack Developer
 
 Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With experience in both backend and frontend development, I strive to create user-friendly and attractive interfaces that provide seamless experiences for users.
 
@@ -13,11 +13,8 @@ Here are some of the technologies and tools I frequently work with:
 
 ## 💼 Portfolio
 
-Check out some of my projects:
+Check out my profile
 
-1. [Project Name](link-to-project) - Brief description of the project.
-2. [Project Name](link-to-project) - Brief description of the project.
-3. [Project Name](link-to-project) - Brief description of the project.
 
 ## 🌱 Currently Learning
 
@@ -31,8 +28,7 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 Feel free to reach out to me through these platforms:
 
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [Personal Website/Blog](link-to-website)
+- [LinkedIn]((https://www.linkedin.com/in/muhammad-zaid-arshad-989a761b7/))
+- [Personal Website]((https://mzaidarshad.netlify.app/))
 
 Let's collaborate and build amazing things together! 😊
