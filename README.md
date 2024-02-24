@@ -20,9 +20,8 @@ Check out my profile
 
 I'm always eager to learn and stay updated with the latest technologies. Currently, I'm exploring:
 
-- GraphQL
-- Next.js
-- Docker
+- MongoDB
+- Express
 
 ## 📫 Let's Connect
 
