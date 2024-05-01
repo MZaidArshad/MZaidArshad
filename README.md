@@ -69,7 +69,7 @@
 
 ## 💼 Portfolio
 
-- [Portfolio Website](https://mzaidarshad.netlify.app/)
+<a href="https://mzaidarshad.netlify.app/" target="_blank" >[Portfolio Website]<a>
 
 
 ## 🌱 Currently Learning
