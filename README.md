@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With experience in both backend and frontend development, I strive to create user-friendly and attractive interfaces that provide seamless experiences for users.<br><br>>Visit my Portfolio: https://mzaidarshad.netlify.app</p>
+<p align="left">Welcome to my GitHub profile! I'm passionate about building beautiful and responsive web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. With experience in both backend and frontend development, I strive to create user-friendly and attractive interfaces that provide seamless experiences for users.<br>
 
 ###
 
