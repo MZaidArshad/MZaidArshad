@@ -20,18 +20,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="32" alt="facebook logo"  />
   </a>
 </div>
-###
-## 💼 Portfolio
-
-- [Portfolio Website](https://mzaidarshad.netlify.app/)
-
-
-## 🌱 Currently Learning
-
-I'm always eager to learn and stay updated with the latest technologies. Currently, I'm exploring:
-
-- NextJS
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mzaidarshad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
@@ -79,6 +67,16 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 ###
 
+## 💼 Portfolio
 
+- [Portfolio Website](https://mzaidarshad.netlify.app/)
+
+
+## 🌱 Currently Learning
+
+I'm always eager to learn and stay updated with the latest technologies. Currently, I'm exploring:
+
+- NextJS
+###
 
 Let's collaborate and build amazing things together! 😊
